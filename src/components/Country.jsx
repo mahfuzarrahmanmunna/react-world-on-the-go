@@ -8,7 +8,7 @@ const Country = ({ rest }) => {
         // if (visited === true) {
         //     setVisited(false)
         // } else {
-        //     setVisited(true)
+        //     setVisited(true) 
         // }
 
         setVisited(!visited)
